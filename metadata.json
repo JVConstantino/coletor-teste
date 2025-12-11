@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Maintenance Collector",
+  "description": "An application to register equipment and employees, collect predictive maintenance data, and prepare it for sharing via email.",
+  "requestFramePermissions": []
+}
